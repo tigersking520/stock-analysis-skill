@@ -51,7 +51,7 @@
 
 ```text
 你的项目/
-└── .agents/
+└── .agent/
     └── skills/
         └── stock-analysis/
             ├── SKILL.md
